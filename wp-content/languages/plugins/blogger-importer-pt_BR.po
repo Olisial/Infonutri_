@@ -1,0 +1,48 @@
+# Translation of Plugins - Blogger Importer - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Blogger Importer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-03 20:42:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Blogger Importer - Stable (latest release)\n"
+
+#: blogger-importer.php:272
+msgid "Submit"
+msgstr "Enviar"
+
+#. Author URI of the plugin
+msgid "http://wordpress.org/"
+msgstr ""
+
+#. Author of the plugin
+msgid "wordpressdotorg"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/blogger-importer/"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "Blogger Importer"
+msgstr "Importador do Blogger"
+
+#: blogger-importer.php:863
+msgid "Import Blogger"
+msgstr "Importar do Blogger"
+
+#: blogger-importer.php:930
+msgid "Blogger"
+msgstr "Blogger"
+
+#: blogger-importer.php:671
+msgid "None of the images are valid"
+msgstr "Nenhuma das imagens são válidas"
+
+#: blogger-importer.php:728 blogger-importer.php:812
+msgid "Attempting to write back empty content"
+msgstr "Tentativa de escrever conteúdo vazio"
